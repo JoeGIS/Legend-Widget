@@ -1,0 +1,30 @@
+
+.legendWidget {
+    white-space: nowrap;
+}
+
+.legendWidget .legendDiv {
+    
+}
+
+.legendWidget .legendLayer {
+    font: bold 10pt Verdana;
+}
+
+.legendWidget .legendCheckbox {
+    vertical-align: middle;
+}
+
+.legendSubLayerDiv {
+    padding-top: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font: 9pt Verdana;
+}
+
+.legendWidget .legendImage {
+    vertical-align: middle;
+}
+
+
+
